@@ -1,1 +1,3 @@
 # jr
+
+java rush time
